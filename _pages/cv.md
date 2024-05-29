@@ -10,22 +10,20 @@ redirect_from:
 {% include base_path %}
 
 [This]() is a detailed version as of Oct 2022.
-
 <br> 
 <hr/>
 
 ## 👩🏻‍🎓 Education
 
-**Doctor of Philosophy** in Econometrics and Statistics<br>
-[The University of Chicago, Booth School of Business](https://www.chicagobooth.edu/) - Chicago IL, USA _2028(Expected)_ <br>
+**Master of Arts** in Clinical Psychology<br>
+[Seoul National University](https://www.snu.ac.kr/) - Seoul, Korea _2020_ <br>
+  - Thesis Advisor: Professor Seok Man Kwon
+<br>
 
-**Master of Science** in Statistics<br>
-[The University of Chicago](https://stat.uchicago.edu/) - Chicago IL, USA _2023_ <br>
-  - Thesis Advisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
-
-**Bachelor of Arts** in Applied Statistics<br>
-[Yonsei University](https://www.yonsei.ac.kr/) - Seoul, Korea _2019_
-
+**Bachelor of Arts** in Psychology<br>
+[Yonsei University](https://www.yonsei.ac.kr/) - Seoul, Korea _2018_
+<br> 
+<hr/>
 
 ## 👩🏻‍💻 Research Experience
 
