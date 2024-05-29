@@ -32,19 +32,19 @@ redirect_from:
 
 ## 👩🏻‍💻 Research Experience
 
-**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center] _(2023 - Present)_ <br>
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2023 - Present)_ <br>
 PI: Hong Jin Jeon, M.D., Ph.D. <br>
   - **_Topics:_** Suicide, Digital Therapeutics
 <br><br>
 
-**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center] _(2021 - 2022)_ <br>
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2021 - 2022)_ <br>
 PI: Ji Hyun Baek, M.D., Ph.D. <br>
   - **_Topics:_** Bipolar Disorder, Project A-BIG-NET(https://abignet.org)
 <br><br>
 
-**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center] _(2020 - 2022)_ <br>
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_ <br>
 PI: Ji-Hae Kim, Ph.D. <br>
-  - **_Topics:_** G
+  - **_Topics:_** Measurement Invariance, Depression, Alcohol Use Disorder
 <br><br>
 
 <!---
@@ -55,20 +55,24 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 <br><br>
 -->
 
-**Undergraduate Research Assistant** @ [Graduate School of Convergence Science and Technology, Seoul National University](https://convergence.snu.ac.kr/) _(Jan 2017 - Feb 2017)_ <br>
-Advisor: Professor <span style="font-variant:small-caps;"> [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
-  - **_Topics:_** Human Computer Interaction(HCI)
-  - **_Technologies used:_** R
+**Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://yonsei.ac.kr/) _(2015)_ <br>
+PI: Kyong-Mee Chung, Ph.D. <br>
+  - **_Topics:_** Behavior Modification
 <br><br>
     
 
-## 💼 Professional Experience
+## 🧑🏻‍⚕️ Clinical Experience
 
-**Full-time Data Analyst** @ [Hyundai Marine and Fire Insurance](http://www.hyundaiinsuranceusa.com/) _(Jan 2019 - June 2021)_ <br>
-Long-term Claims Planning Dept <br>
-  - **_Technologies used:_** SQL, R, Microsoft Excel, Power Point 
+**Clinical Psychology Resident** @ [Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_ <br>
+Supervisor: Ji-Hae Kim, Ph.D. <br>
+  - **_Population:_** Adult and adolescent inpatients, outpatients
+  - **_Internship summary:_** Clinical interviews, comprehensive psychological assessments, and integrated report writing (839 cases), individual psychotherapy (128 hrs), cognitive rehabilitation (10 hrs)
 
-**Off-Cycle Intern** @ [BNP Paribas Securities](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/) _(June 2017 - Dec 2017)_ <br>
+**Clinical Psychology Extern** @ [BNP Paribas Securities](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/) _(June 2017 - Dec 2017)_ <br>
+Global Market, Equity Derivative Sales <br>
+  - **_Technologies used:_** Microsoft Office, VBA, Bloomberg
+
+**Clinical Psychology Extern** @ [BNP Paribas Securities](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/) _(June 2017 - Dec 2017)_ <br>
 Global Market, Equity Derivative Sales <br>
   - **_Technologies used:_** Microsoft Office, VBA, Bloomberg
 <br><br>
