@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[This](/files/cv.pdf') is a detailed version as of May 2024.
+[This](/files/YejinLee_CV_website.pdf') is a detailed version as of May 2024.
 <br> 
 <hr/>
 
