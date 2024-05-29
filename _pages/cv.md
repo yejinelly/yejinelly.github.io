@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[This]() is a detailed version as of Oct 2022.
+[This]() is a detailed version as of May 2024.
 <br> 
 <hr/>
 
@@ -20,6 +20,11 @@ redirect_from:
   - Thesis Advisor: Professor Seok Man Kwon
 <br>
 
+**Student Exchange Program** in Psychology<br>
+[University of Wisconsin-Madison](https://www.snu.ac.kr/) - Madison, WI _2016_ <br>
+  - Junior year abroad
+<br>
+
 **Bachelor of Arts** in Psychology<br>
 [Yonsei University](https://www.yonsei.ac.kr/) - Seoul, Korea _2018_
 <br> 
@@ -27,13 +32,19 @@ redirect_from:
 
 ## 👩🏻‍💻 Research Experience
 
-**Graduate Researcher** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Sep 2021 - Present)_ <br>
-Advisor: Professor <span style="font-variant:small-caps;">[Claire Donnat](https://donnate.github.io/)</span> <br>
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center] _(2023 - Present)_ <br>
+PI: Hong Jin Jeon, M.D., Ph.D. <br>
   - **_Topics:_** Graph Neural Network 
   - **_Technologies used:_** Python(PyTorch)
 <br><br>
 
-**Graduate Researcher** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Nov 2021 - Present)_ <br>
+**Research Assistant** @ [Department of Psychiatry, Samsung Medical Center] _(2021 - 2022)_ <br>
+PI: Ji Hyun Baek, M.D., Ph.D. <br>
+  - **_Topics:_** Graph Neural Network 
+  - **_Technologies used:_** Python(PyTorch)
+<br><br>
+
+**Research Assistant** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Nov 2021 - Present)_ <br>
 Advisor: Professor <span style="font-variant:small-caps;">[Lek-heng Lim](https://www.stat.uchicago.edu/~lekheng/)</span> <br>
   - **_Topics:_** Generative Modeling, Kernel Method
   - **_Technologies used:_** Python(PyTorch)
@@ -64,57 +75,3 @@ Long-term Claims Planning Dept <br>
 Global Market, Equity Derivative Sales <br>
   - **_Technologies used:_** Microsoft Office, VBA, Bloomberg
 <br><br>
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
