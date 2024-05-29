@@ -21,7 +21,7 @@ redirect_from:
 <br>
 
 **Student Exchange Program** in Psychology<br>
-[University of Wisconsin-Madison](https://www.snu.ac.kr/) - Madison, WI _2016_ <br>
+[University of Wisconsin-Madison](https://www.wisc.edu/) - Madison, WI _2016_ <br>
   - Junior year abroad
 <br>
 
@@ -34,20 +34,17 @@ redirect_from:
 
 **Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center] _(2023 - Present)_ <br>
 PI: Hong Jin Jeon, M.D., Ph.D. <br>
-  - **_Topics:_** Graph Neural Network 
-  - **_Technologies used:_** Python(PyTorch)
+  - **_Topics:_** Suicide, Digital Therapeutics
 <br><br>
 
-**Research Assistant** @ [Department of Psychiatry, Samsung Medical Center] _(2021 - 2022)_ <br>
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center] _(2021 - 2022)_ <br>
 PI: Ji Hyun Baek, M.D., Ph.D. <br>
-  - **_Topics:_** Graph Neural Network 
-  - **_Technologies used:_** Python(PyTorch)
+  - **_Topics:_** Bipolar Disorder, Project A-BIG-NET(https://abignet.org)
 <br><br>
 
-**Research Assistant** @ [Department of Statistics, The University of Chicago](https://stat.uchicago.edu/) _(Nov 2021 - Present)_ <br>
-Advisor: Professor <span style="font-variant:small-caps;">[Lek-heng Lim](https://www.stat.uchicago.edu/~lekheng/)</span> <br>
-  - **_Topics:_** Generative Modeling, Kernel Method
-  - **_Technologies used:_** Python(PyTorch)
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center] _(2020 - 2022)_ <br>
+PI: Ji-Hae Kim, Ph.D. <br>
+  - **_Topics:_** G
 <br><br>
 
 <!---
@@ -58,7 +55,7 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 <br><br>
 -->
 
-**Undergraduate Researcher(Internship)** @ [Graduate School of Convergence Science and Technology, Seoul National University](https://convergence.snu.ac.kr/) _(Jan 2017 - Feb 2017)_ <br>
+**Undergraduate Research Assistant** @ [Graduate School of Convergence Science and Technology, Seoul National University](https://convergence.snu.ac.kr/) _(Jan 2017 - Feb 2017)_ <br>
 Advisor: Professor <span style="font-variant:small-caps;"> [Bongwon Suh](http://hcc.snu.ac.kr/wordpress/people/bongwon-suh) </span> <br>
   - **_Topics:_** Human Computer Interaction(HCI)
   - **_Technologies used:_** R
