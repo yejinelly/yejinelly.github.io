@@ -21,8 +21,7 @@ redirect_from:
 <br>
 
 **Student Exchange Program** in Psychology<br>
-[University of Wisconsin-Madison](https://www.wisc.edu/) - Madison, WI _2016_ <br>
-  - Junior year abroad
+[University of Wisconsin-Madison](https://www.wisc.edu/) - Madison, WI _2016_
 <br>
 
 **Bachelor of Arts** in Psychology<br>
@@ -35,17 +34,17 @@ redirect_from:
 **Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2023 - Present)_ <br>
 PI: Hong Jin Jeon, M.D., Ph.D. <br>
   - **_Topics:_** Suicide, Digital Therapeutics
-<br><br>
+<br>
 
 **Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2021 - 2022)_ <br>
 PI: Ji Hyun Baek, M.D., Ph.D. <br>
-  - **_Topics:_** Bipolar Disorder, Project A-BIG-NET(https://abignet.org)
-<br><br>
+  - **_Topics:_** Bipolar Disorder, [Project A-BIG-NET](https://abignet.org)
+<br>
 
 **Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_ <br>
 PI: Ji-Hae Kim, Ph.D. <br>
   - **_Topics:_** Measurement Invariance, Depression, Alcohol Use Disorder
-<br><br>
+<br>
 
 <!---
 **Undergraduate Researcher** @ [Institue for Natural Science Research, Yonsei University](https://nsri.yonsei.ac.kr/nslab/index.do) _(May 2018 - Feb 2019)_ <br>
@@ -58,8 +57,8 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 **Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://yonsei.ac.kr/) _(2015)_ <br>
 PI: Kyong-Mee Chung, Ph.D. <br>
   - **_Topics:_** Behavior Modification
-<br><br>
-    
+<br>
+<hr/>
 
 ## 🧑🏻‍⚕️ Clinical Experience
 
