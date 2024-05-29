@@ -56,7 +56,7 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 
 **Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://yonsei.ac.kr/) _(2015)_ <br>
 PI: Kyong-Mee Chung, Ph.D. <br>
-  - **_Topics:_** Behavior Modification
+  - _Topics:_ Behavior Modification
 <br>
 <hr/>
 
@@ -64,17 +64,17 @@ PI: Kyong-Mee Chung, Ph.D. <br>
 
 **Clinical Psychology Resident** @ [Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_ <br>
 Supervisor: Ji-Hae Kim, Ph.D. <br>
-  - **_Population:_** Adult and adolescent inpatients, outpatients
-  - **_Role:_** Clinical interviews, comprehensive psychological assessments, and integrated report writing (839 cases), individual psychotherapy (128 hrs), cognitive rehabilitation (10 hrs)
+  - _Population:_ Adult and adolescent inpatients, outpatients
+  - _Role:_ Clinical interviews, comprehensive psychological assessments, and integrated report writing (839 cases), individual psychotherapy (128 hrs), cognitive rehabilitation (10 hrs)
 <br><br>
 
 **Clinical Psychology Extern** @ Gangnam Municipal Counseling Center _(2020)_ <br>
-  - **_Population:_** Community population with chronic psychosis
-  - **_Role:_** Cognitive rehabilitation (16hrs)
+  - _Population:_ Community population with chronic psychosis
+  - _Role:_ Cognitive rehabilitation (16hrs)
 <br><br>
 
 **Student Clinician** @ [Psychological Services Center, Seoul National University](https://snucounsel.snu.ac.kr/en/main.do) _(2019)_ <br>
 Supervisor: Sook-Kyung Yoon, Ph.D. <br>
-  - **_Populations:_** College students
-  - **_Role:_** Intake interviews (14 cases), individual psychotherapy (46 hrs), group psychotherapy (10 hrs)
+  - _Populations:_ College students
+  - _Role:_ Intake interviews (14 cases), individual psychotherapy (46 hrs), group psychotherapy (10 hrs)
 <br><br>
