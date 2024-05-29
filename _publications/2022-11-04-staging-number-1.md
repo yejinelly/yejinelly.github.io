@@ -10,9 +10,6 @@ venue: 'BMC Psychiatry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Lee, Y., Lee, D., Jung, H. et al. (2022). &quot;Heterogeneous early illness courses of Korean patients with bipolar disorders: replication of the staging model.&quot; <i>BMC Psychiatry</i>. 22, 684.'
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1186/s12888-022-04318-y" target="_blank" rel="noopener">
-  DOI
-</a>
 ---
 
 **Abstract**
