@@ -3,13 +3,13 @@ title: "Heterogeneous early illness courses
 of Korean patients with bipolar disorders:
 replication of the staging model"
 collection: publications
-permalink: /publication/staging_model
+permalink: /publication/2022-11-04-staging-number-1
 excerpt: 'Yejin Lee, Dongbin Lee, Hyewon Jung, Yunji Cho, Ji Hyun Baek, Kyung Sue Hong'
 date: 2022-11-04
-venue: 'Journal 1'
+venue: 'BMC Psychiatry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Lee, Y., Lee, D., Jung, H. et al. Heterogeneous early illness courses of Korean patients with bipolar disorders: replication of the staging model. _BMC Psychiatry_ 22, 684 (2022).'
+citation: 'Lee, Y., Lee, D., Jung, H. et al. (2022). &quot;Heterogeneous early illness courses of Korean patients with bipolar disorders: replication of the staging model.&quot; <i>BMC Psychiatry</i>. 22, 684.'
 <a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1186/s12888-022-04318-y" target="_blank" rel="noopener">
   DOI
 </a>
