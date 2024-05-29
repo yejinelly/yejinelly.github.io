@@ -16,7 +16,7 @@ redirect_from:
 ## 👩🏻‍🎓 Education
 
 **Master of Arts** in Clinical Psychology<br>
-[Seoul National University](https://www.snu.ac.kr/) - Seoul, Korea _2020_
+[Seoul National University](https://www.snu.ac.kr/) - Seoul, Korea _2020_ <br>
   - Thesis Advisor: Professor Seok Man Kwon
 <br><br>
 
@@ -31,19 +31,19 @@ redirect_from:
 
 ## 👩🏻‍💻 Research Experience
 
-**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2023 - Present)_ 
-PI: Hong Jin Jeon, M.D., Ph.D. 
-  - **_Topics:_** Suicide, Digital Therapeutics
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2023 - Present)_ <br>
+PI: Hong Jin Jeon, M.D., Ph.D. <br>
+  - _Topics:_ Suicide, Digital Therapeutics
 <br><br>
 
-**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2021 - 2022)_
-PI: Ji Hyun Baek, M.D., Ph.D.
-  - **_Topics:_** Bipolar Disorder, [Project A-BIG-NET](https://abignet.org)
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2021 - 2022)_ <br>
+PI: Ji Hyun Baek, M.D., Ph.D. <br>
+  - _Topics:_ Bipolar Disorder, [Project A-BIG-NET](https://abignet.org)
 <br><br>
 
-**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_
-PI: Ji-Hae Kim, Ph.D.
-  - **_Topics:_** Measurement Invariance, Depression, Alcohol Use Disorder
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_ <br>
+PI: Ji-Hae Kim, Ph.D. <br>
+  - _Topics:_ Measurement Invariance, Depression, Alcohol Use Disorder
 <br><br>
 
 <!---
@@ -54,27 +54,27 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 <br><br>
 -->
 
-**Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://yonsei.ac.kr/) _(2015)_
-PI: Kyong-Mee Chung, Ph.D.
+**Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://yonsei.ac.kr/) _(2015)_ <br>
+PI: Kyong-Mee Chung, Ph.D. <br>
   - **_Topics:_** Behavior Modification
 <br>
 <hr/>
 
 ## 🧑🏻‍⚕️ Clinical Experience
 
-**Clinical Psychology Resident** @ [Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_
-Supervisor: Ji-Hae Kim, Ph.D.
+**Clinical Psychology Resident** @ [Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_ <br>
+Supervisor: Ji-Hae Kim, Ph.D. <br>
   - **_Population:_** Adult and adolescent inpatients, outpatients
   - **_Role:_** Clinical interviews, comprehensive psychological assessments, and integrated report writing (839 cases), individual psychotherapy (128 hrs), cognitive rehabilitation (10 hrs)
 <br><br>
 
-**Clinical Psychology Extern** @ [Gangnam Municipal Counseling Center] _(2020)_ 
+**Clinical Psychology Extern** @ Gangnam Municipal Counseling Center _(2020)_ <br>
   - **_Population:_** Community population with chronic psychosis
   - **_Role:_** Cognitive rehabilitation (16hrs)
 <br><br>
 
 **Student Clinician** @ [Psychological Services Center, Seoul National University](https://snucounsel.snu.ac.kr/en/main.do) _(2019)_ <br>
-Supervisor: Sook-Kyung Yoon, Ph.D.
+Supervisor: Sook-Kyung Yoon, Ph.D. <br>
   - **_Populations:_** College students
   - **_Role:_** Intake interviews (14 cases), individual psychotherapy (46 hrs), group psychotherapy (10 hrs)
 <br><br>
