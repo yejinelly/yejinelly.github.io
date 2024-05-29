@@ -65,15 +65,16 @@ PI: Kyong-Mee Chung, Ph.D.
 **Clinical Psychology Resident** @ [Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_
 Supervisor: Ji-Hae Kim, Ph.D.
   - **_Population:_** Adult and adolescent inpatients, outpatients
-  - **_Internship summary:_** Clinical interviews, comprehensive psychological assessments, and integrated report writing (839 cases), individual psychotherapy (128 hrs), cognitive rehabilitation (10 hrs)
+  - **_Role:_** Clinical interviews, comprehensive psychological assessments, and integrated report writing (839 cases), individual psychotherapy (128 hrs), cognitive rehabilitation (10 hrs)
 <br><br>
 
-**Clinical Psychology Extern** @ [BNP Paribas Securities](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/) _(June 2017 - Dec 2017)_ <br>
-Global Market, Equity Derivative Sales <br>
-  - **_Technologies used:_** Microsoft Office, VBA, Bloomberg
+**Clinical Psychology Extern** @ [Gangnam Municipal Counseling Center] _(2020)_ 
+  - **_Population:_** Community population with chronic psychosis
+  - **_Role:_** Cognitive rehabilitation (16hrs)
 <br><br>
 
-**Clinical Psychology Extern** @ [BNP Paribas Securities](https://www.bnpparibas.co.kr/en/corporates-institutions/bnp-paribas-securities-korea/) _(June 2017 - Dec 2017)_ <br>
-Global Market, Equity Derivative Sales <br>
-  - **_Technologies used:_** Microsoft Office, VBA, Bloomberg
+**Student Clinician** @ [Psychological Services Center, Seoul National University](https://snucounsel.snu.ac.kr/en/main.do) _(2019)_ <br>
+Supervisor: Sook-Kyung Yoon, Ph.D.
+  - **_Populations:_** College students
+  - **_Role:_** Intake interviews (14 cases), individual psychotherapy (46 hrs), group psychotherapy (10 hrs)
 <br><br>
