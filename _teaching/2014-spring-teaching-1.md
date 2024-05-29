@@ -10,6 +10,8 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
+![profile_suwon2](../images/2014-spring-teaching-1/profile_suwon2.jpg)
+
 Heading 1
 ======
 
