@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[This]('http://yejinelly.github.io/files/cv.pdf') is a detailed version as of May 2024.
+[This](/files/cv.pdf') is a detailed version as of May 2024.
 <br> 
 <hr/>
 
