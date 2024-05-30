@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=B23vVO4AAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-4518-2528"
   semantic         : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "yejin-lee-23556a12b"
+  linkedin         : # "yejin-lee-23556a12b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
