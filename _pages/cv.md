@@ -17,7 +17,8 @@ redirect_from:
 
 **Master of Arts** in Clinical Psychology<br>
 [Seoul National University](https://www.snu.ac.kr/) - Seoul, Korea _2020_ <br>
-  - Thesis Advisor: Professor Seok Man Kwon
+  - _Advisor:_ Seok Man Kwon, Ph.D.
+  - _Thesis:_ The Relationship between Worry and Contrast Avoidance Tendencies: Focusing on Emotional and Expectation Contrasts
 <br><br>
 
 **Student Exchange Program** in Psychology<br>
