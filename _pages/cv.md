@@ -77,4 +77,15 @@ Supervisor: Ji-Hae Kim, Ph.D. <br>
 Supervisor: Sook-Kyung Yoon, Ph.D. <br>
   - _Populations:_ College students
   - _Role:_ Intake interviews (14 cases), individual psychotherapy (46 hrs), group psychotherapy (10 hrs)
+<br>
+<hr/>
+
+## 📂 Licensure
+
+**Licensed Clinical Psychologist** _(2023 - Present)_ <br>
+Korean Clinical Psychology Association, South Korea
+<br><br>
+
+**Mental Health Clinical Psychologist, Class I** _(2021 - Present)_ <br>
+Ministry of Health and Welfare, South Korea
 <br><br>
