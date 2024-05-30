@@ -25,7 +25,7 @@ author:
   name             : "Yejin Lee"
   pronouns         : "she/her"  
   bio              : "Clinical Psychology Ph.D. Applicant"
-  location         : "Seoul, KOR"
+  location         : # "Seoul, KOR"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "elly0804@gmail.com" 
