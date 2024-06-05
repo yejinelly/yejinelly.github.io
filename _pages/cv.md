@@ -16,7 +16,7 @@ redirect_from:
 ## 👩🏻‍🎓 Education
 
 **Master of Arts** in Clinical Psychology<br>
-[Seoul National University](https://www.snu.ac.kr/) - Seoul, Korea _2020_ <br>
+[Seoul National University](https://en.snu.ac.kr/) - Seoul, Korea _2020_ <br>
   - _Advisor:_ Seok Man Kwon, Ph.D.
   - _Thesis:_ The Relationship between Worry and Contrast Avoidance Tendencies: Focusing on Emotional and Expectation Contrasts
 <br><br>
@@ -26,7 +26,7 @@ redirect_from:
 <br><br>
 
 **Bachelor of Arts** in Psychology<br>
-[Yonsei University](https://www.yonsei.ac.kr/) - Seoul, Korea _2018_
+[Yonsei University](https://www.yonsei.ac.kr/en_sc/) - Seoul, Korea _2018_
 <br> 
 <hr/>
 
@@ -55,7 +55,7 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 <br><br>
 -->
 
-**Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://yonsei.ac.kr/) _(2015)_ <br>
+**Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://www.yonsei.ac.kr/en_sc/) _(2015)_ <br>
 PI: Kyong-Mee Chung, Ph.D. <br>
   - _Topics:_ Behavior Modification
 <br>
