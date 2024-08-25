@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[This](http://yejinelly.github.io/files/YejinL_CV.pdf) is a detailed version as of May 2024.
+[This](http://yejinelly.github.io/files/YejinL_CV.pdf) is a detailed version as of August 2024.
 <br> 
 <hr/>
 
@@ -31,6 +31,11 @@ redirect_from:
 <hr/>
 
 ## 👩🏻‍💻 Research Experience
+
+**Graduate Researcher** @ [Department of Psychology, Yonsei University](https://www.jhurlab.org/) _(2024 - Present)_ <br>
+PI: Juyoen Hur, Ph.D. <br>
+  - _Topics:_ Neural Mechanisms Involved in Human Anxiety, Misophonia
+<br><br>
 
 **Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2023 - Present)_ <br>
 PI: Hong Jin Jeon, M.D., Ph.D. <br>
