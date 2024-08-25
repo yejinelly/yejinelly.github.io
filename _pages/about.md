@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-Yejin is a Clinical Psychology Ph.D. program applicant. She works as a post-master's researcher with Dr. Hong Jin Jeon in the Depression Lab at the Psychiatry Department of Samsung Medical Center, Seoul, South Korea. 
+Yejin is a Clinical Psychology Ph.D. program applicant. She works as a post-master's researcher with Dr. Juyoen Hur in the Clinical Neuroscience of Anxiety and Depression (CAD) Lab at the Psychology Department of Yonsei University, Seoul, South Korea. She is also working with Dr. Hong Jin Jeon in the Depression Lab at the Psychiatry Department of Samsung Medical Center, Seoul, South Korea. 
 
 Before applying to the Ph.D. program, Yejin completed a three-year internship as a clinical psychology resident at a tertiary hospital. She received a Master's degree in Clinical Psychology in August 2020, advised by Dr. Seok Man Kwon at Seoul National University. After graduating from Yonsei University with the Bachelor's degree in Psychology, she started pursuing a journey to bridge empirical results with clinical realities. 
 
