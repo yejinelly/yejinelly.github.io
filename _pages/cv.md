@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[This](http://yejinelly.github.io/files/YejinL_CV.pdf) is a detailed version as of August 2024.
+[This](http://yejinelly.github.io/files/YejinL_CV.pdf) is a detailed version as of September 2024.
 <br> 
 <hr/>
 
