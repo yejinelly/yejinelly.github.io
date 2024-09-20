@@ -32,6 +32,11 @@ redirect_from:
 
 ## 👩🏻‍💻 Research Experience
 
+**Research Assistant** @ [Department of Psychology, Yale University](https://joormann-lab.yale.edu/) _(2024 - Present)_ <br>
+PI: Jutta Joormann, Ph.D. <br>
+  - _Topics:_ Naturalistic Recall Task, Depression
+<br><br>
+
 **Graduate Researcher** @ [Department of Psychology, Yonsei University](https://www.jhurlab.org/) _(2024 - Present)_ <br>
 PI: Juyoen Hur, Ph.D. <br>
   - _Topics:_ Neural Mechanisms Involved in Human Anxiety, Misophonia
