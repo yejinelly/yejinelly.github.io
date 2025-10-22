@@ -39,7 +39,7 @@ redirect_from:
 
 **Graduate Researcher** @ [Department of Psychology, Seoul National University](https://sites.google.com/view/emphl-snu) _(2025 - Present)_ <br>
 PI: Hyang Sook Kim, Ph.D. <br>
-  - _Lab:_ Emotion & Psychological Health Lab (EMPHL)
+  - _Topics:_ Emotion Regulation
 <br><br>
 
 **Graduate Researcher** @ [Department of Psychology, Yonsei University](https://www.jhurlab.org/) _(2024 - 2025)_ <br>
