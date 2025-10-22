@@ -47,7 +47,7 @@ PI: Juyoen Hur, Ph.D. <br>
   - _Topics:_ Neural Mechanisms Involved in Human Anxiety, Misophonia
 <br><br>
 
-**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2023 - Present)_ <br>
+**Graduate Researcher** @ [Department of Psychiatry, Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2023 - 2025)_ <br>
 PI: Hong Jin Jeon, M.D., Ph.D. <br>
   - _Topics:_ Suicide, Digital Therapeutics
 <br><br>
