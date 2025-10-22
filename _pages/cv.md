@@ -15,6 +15,11 @@ redirect_from:
 
 ## 👩🏻‍🎓 Education
 
+**Doctor of Philosophy** in Clinical Psychology<br>
+[Seoul National University](https://en.snu.ac.kr/) - Seoul, Korea _2025 - Present_ <br>
+  - _Advisor:_ Hyang Sook Kim, Ph.D.
+<br><br>
+
 **Master of Arts** in Clinical Psychology<br>
 [Seoul National University](https://en.snu.ac.kr/) - Seoul, Korea _2020_ <br>
   - _Advisor:_ Seok Man Kwon, Ph.D.
@@ -32,12 +37,12 @@ redirect_from:
 
 ## 👩🏻‍💻 Research Experience
 
-**Research Assistant** @ [Department of Psychology, Yale University](https://joormann-lab.yale.edu/) _(2024 - Present)_ <br>
-PI: Jutta Joormann, Ph.D. <br>
-  - _Topics:_ Naturalistic Recall Task, Depression
+**Graduate Researcher** @ [Department of Psychology, Seoul National University](https://sites.google.com/view/emphl-snu) _(2025 - Present)_ <br>
+PI: Hyang Sook Kim, Ph.D. <br>
+  - _Lab:_ Emotion & Psychological Health Lab (EMPHL)
 <br><br>
 
-**Graduate Researcher** @ [Department of Psychology, Yonsei University](https://www.jhurlab.org/) _(2024 - Present)_ <br>
+**Graduate Researcher** @ [Department of Psychology, Yonsei University](https://www.jhurlab.org/) _(2024 - 2025)_ <br>
 PI: Juyoen Hur, Ph.D. <br>
   - _Topics:_ Neural Mechanisms Involved in Human Anxiety, Misophonia
 <br><br>
