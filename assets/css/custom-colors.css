@@ -163,6 +163,12 @@ h3 {
     padding-right: 3em !important;
     max-width: 850px !important;
   }
+
+  /* Specific adjustment for about/home page - wider content */
+  .page:not(.archive) .page__content {
+    max-width: 1000px !important;
+    padding-right: 2em !important;
+  }
 }
 
 /* Blog post images - make them smaller */
