@@ -139,27 +139,27 @@ h3 {
   }
 
   .page {
-    padding-left: 3em !important;
-    margin-left: 3em !important;
+    padding-left: 5em !important;
+    margin-left: 4em !important;
     padding-right: 3em !important;
     margin-right: 3em !important;
     max-width: 900px !important;
   }
 
   #main {
-    padding-left: 1em !important;
+    padding-left: 2em !important;
     padding-right: 3em !important;
   }
 
   .archive {
-    padding-left: 3em !important;
-    margin-left: 2em !important;
+    padding-left: 5em !important;
+    margin-left: 4em !important;
     padding-right: 3em !important;
     margin-right: 3em !important;
   }
 
   .page__content {
-    padding-left: 2em !important;
+    padding-left: 3em !important;
     padding-right: 3em !important;
     max-width: 850px !important;
   }
