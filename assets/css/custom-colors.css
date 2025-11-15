@@ -1,11 +1,11 @@
 /* Custom color scheme for headers */
 h2 {
-  color: #3a6b35;
+  color: #3a6b35 !important;
 }
 
 /* Optional: Add color to h3 as well for consistency */
 h3 {
-  color: #4a7c2d;
+  color: #4a7c2d !important;
 }
 
 /* Publication spacing adjustments */
