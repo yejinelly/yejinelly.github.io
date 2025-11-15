@@ -12,6 +12,8 @@ img {
   -o-user-drag: none;
   user-drag: none;
   pointer-events: auto;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 /* Prevent context menu on images */
