@@ -59,3 +59,11 @@ h3 {
   color: #0052a3 !important;
   text-decoration: underline;
 }
+
+/* Blog post images - make them smaller */
+.page__content img {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
