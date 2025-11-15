@@ -19,6 +19,10 @@
 /* Custom color scheme for headers */
 h2 {
   color: #3a6b35 !important;
+  background-color: rgba(58, 107, 53, 0.1) !important;
+  padding: 0.5em 0.8em !important;
+  border-radius: 5px !important;
+  border-left: 4px solid #3a6b35 !important;
 }
 
 /* Optional: Add color to h3 as well for consistency */
