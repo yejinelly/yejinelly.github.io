@@ -15,7 +15,7 @@ redirect_from:
 
 ## 👩🏻‍🎓 Education
 
-**Doctor of Philosophy** in Clinical Psychology<br>
+**Ph.D. Student** in Clinical Psychology<br>
 [Seoul National University](https://en.snu.ac.kr/) - Seoul, Korea _2025 - Present_ <br>
   - _Advisor:_ Hyang Sook Kim, Ph.D.
 <br><br>
