@@ -1,3 +1,12 @@
+/* Remove white box around navigation items */
+.masthead__inner-wrap {
+  background: transparent !important;
+}
+
+.masthead__menu {
+  background: transparent !important;
+}
+
 /* Custom color scheme for headers */
 h2 {
   color: #3a6b35 !important;
