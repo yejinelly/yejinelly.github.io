@@ -51,11 +51,11 @@ h3 {
 
 /* Keep download links and external profile links blue */
 .archive__item p a {
-  color: #0066cc !important;
+  color: #52adc8 !important;
 }
 
 .archive__item p a:hover {
-  color: #0052a3 !important;
+  color: #3d8ca3 !important;
   text-decoration: underline;
 }
 
@@ -65,11 +65,11 @@ h3 {
 }
 
 .wordwrap a {
-  color: #0066cc !important;
+  color: #52adc8 !important;
 }
 
 .wordwrap a:hover {
-  color: #0052a3 !important;
+  color: #3d8ca3 !important;
   text-decoration: underline;
 }
 
