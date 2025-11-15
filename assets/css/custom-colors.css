@@ -120,8 +120,8 @@ h3 {
 
 /* Ensure sidebar and author images maintain original layout */
 .sidebar {
-  margin-right: 4em !important;
-  padding-right: 2em !important;
+  margin-right: 5em !important;
+  padding-right: 3em !important;
 }
 
 .sidebar img,
