@@ -29,8 +29,8 @@
   background: transparent !important;
 }
 
-/* Custom color scheme for headers - only on CV page, not archive items */
-.page__content h2:not(.archive__item-title) {
+/* Custom color scheme for headers */
+h2 {
   color: #3a6b35 !important;
   background-color: rgba(58, 107, 53, 0.06) !important;
   padding: 0.5em 0.8em !important;
@@ -41,21 +41,9 @@
   width: calc(100% + 1.6em) !important;
 }
 
-/* Optional: Add color to h3 as well for consistency - only on CV page */
-.page__content h3 {
+/* Optional: Add color to h3 as well for consistency */
+h3 {
   color: #4a7c2d !important;
-}
-
-/* Remove green styling from archive items (Publications, Presentations, Blog) */
-.archive__item h2,
-.archive__item-title {
-  color: inherit !important;
-  background-color: transparent !important;
-  padding: 0 !important;
-  border: none !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  width: auto !important;
 }
 
 /* Publication spacing adjustments */
