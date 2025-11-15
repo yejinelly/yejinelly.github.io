@@ -70,10 +70,6 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 <br><br>
 -->
 
-**Undergraduate Research Assistant** @ [Department of Psychology, Yonsei University](https://www.yonsei.ac.kr/en_sc/) _(2015)_ <br>
-PI: Kyong-Mee Chung, Ph.D. <br>
-  - _Topics:_ Behavior Modification
-<br>
 <hr/>
 
 ## 🧑🏻‍⚕️ Clinical Experience
