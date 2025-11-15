@@ -39,3 +39,23 @@ h3 {
   color: #3a6b35 !important;
   text-decoration: underline;
 }
+
+/* Keep download links and external profile links blue */
+.archive__item p a {
+  color: #0066cc !important;
+}
+
+.archive__item p a:hover {
+  color: #0052a3 !important;
+  text-decoration: underline;
+}
+
+/* Also apply to wordwrap class for Google Scholar link */
+.wordwrap a {
+  color: #0066cc !important;
+}
+
+.wordwrap a:hover {
+  color: #0052a3 !important;
+  text-decoration: underline;
+}
