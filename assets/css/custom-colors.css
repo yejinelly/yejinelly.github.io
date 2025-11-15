@@ -7,6 +7,15 @@
   background: transparent !important;
 }
 
+/* Remove white background from main content area under navigation */
+#main {
+  background: transparent !important;
+}
+
+.page__inner-wrap {
+  background: transparent !important;
+}
+
 /* Custom color scheme for headers */
 h2 {
   color: #3a6b35 !important;
@@ -74,11 +83,22 @@ h3 {
 }
 
 /* Ensure sidebar and author images maintain original layout */
+.sidebar {
+  margin-right: 2em !important;
+}
+
 .sidebar img,
 .author__avatar img {
   display: initial !important;
   margin: initial !important;
   max-width: initial !important;
+}
+
+/* Add proper spacing between sidebar and main content */
+@media screen and (min-width: 64em) {
+  .page {
+    padding-left: 2em !important;
+  }
 }
 
 /* Blog post images - make them smaller */
