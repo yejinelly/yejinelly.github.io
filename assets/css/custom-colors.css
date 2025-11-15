@@ -1,18 +1,31 @@
 /* Remove white box around navigation items */
 .masthead__inner-wrap {
   background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
 }
 
 .masthead__menu {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.masthead__menu-item {
   background: transparent !important;
 }
 
 /* Remove white background from main content area under navigation */
 #main {
   background: transparent !important;
+  box-shadow: none !important;
 }
 
 .page__inner-wrap {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.page {
   background: transparent !important;
 }
 
@@ -91,7 +104,8 @@ h3 {
 
 /* Ensure sidebar and author images maintain original layout */
 .sidebar {
-  margin-right: 2em !important;
+  margin-right: 3em !important;
+  padding-right: 1em !important;
 }
 
 .sidebar img,
@@ -104,6 +118,10 @@ h3 {
 /* Add proper spacing between sidebar and main content */
 @media screen and (min-width: 64em) {
   .page {
+    padding-left: 4em !important;
+  }
+
+  #main {
     padding-left: 2em !important;
   }
 }
