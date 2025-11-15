@@ -28,7 +28,7 @@ author:
   location         : # "Seoul, KOR"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "elly0804@gmail.com" 
+  email            : "yejinlee84@snu.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,13 +37,13 @@ author:
   orcid            : "http://orcid.org/0000-0002-4518-2528"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Yejin_Lee34"
+  researchgate     : # "https://www.researchgate.net/profile/Yejin_Lee34"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "yejinelly"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
