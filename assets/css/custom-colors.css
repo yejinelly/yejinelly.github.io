@@ -7,3 +7,24 @@ h2 {
 h3 {
   color: #4a7c2d;
 }
+
+/* Publication spacing adjustments */
+.archive__item {
+  margin-bottom: 2.5em;
+}
+
+/* Tighten spacing within each publication item */
+.archive__item h2 {
+  margin-bottom: 0.3em;
+  margin-top: 0;
+}
+
+.archive__item p {
+  margin-bottom: 0.3em;
+  line-height: 1.4;
+}
+
+/* Keep last paragraph in item with normal spacing */
+.archive__item p:last-child {
+  margin-bottom: 0;
+}
