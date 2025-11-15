@@ -69,9 +69,17 @@ h3 {
   text-decoration: underline;
 }
 
+/* Ensure sidebar and author images maintain original layout */
+.sidebar img,
+.author__avatar img {
+  display: initial !important;
+  margin: initial !important;
+  max-width: initial !important;
+}
+
 /* Blog post images - make them smaller */
-/* Only apply to images in blog posts, not profile images */
-article.page img:not(.author__avatar img):not(.sidebar img) {
+/* Only apply to images in main content area, not sidebar */
+.page__content p img {
   max-width: 60%;
   height: auto;
   display: block;
