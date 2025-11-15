@@ -60,6 +60,10 @@ h3 {
 }
 
 /* Also apply to wordwrap class for Google Scholar link */
+.wordwrap {
+  margin-bottom: 2em !important;
+}
+
 .wordwrap a {
   color: #0066cc !important;
 }
