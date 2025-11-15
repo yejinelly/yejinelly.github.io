@@ -52,9 +52,9 @@ h2 {
   padding: 0.5em 0.8em !important;
   border-radius: 5px !important;
   border-left: 4px solid #3a6b35 !important;
-  margin-left: -0.8em !important;
+  margin-left: 0 !important;
   margin-right: -0.8em !important;
-  width: calc(100% + 1.6em) !important;
+  width: calc(100% + 0.8em) !important;
 }
 
 /* Optional: Add color to h3 as well for consistency */
@@ -134,15 +134,20 @@ h3 {
 /* Add proper spacing between sidebar and main content */
 @media screen and (min-width: 64em) {
   .page {
-    padding-left: 5em !important;
-    margin-left: 2em !important;
+    padding-left: 3em !important;
+    margin-left: 3em !important;
   }
 
   #main {
-    padding-left: 3em !important;
+    padding-left: 2em !important;
   }
 
   .archive {
+    padding-left: 3em !important;
+    margin-left: 2em !important;
+  }
+
+  .page__content {
     padding-left: 2em !important;
   }
 }
