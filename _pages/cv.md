@@ -86,7 +86,6 @@ Supervisor: Ji-Hae Kim, Ph.D. <br>
 <br><br>
 
 **Student Clinician** @ Psychological Services Center, Seoul National University _(2019)_ <br>
-Supervisor: Sook-Kyung Yoon, Ph.D. <br>
   - _Populations:_ College students
   - _Role:_ Intake interviews (14 cases), individual psychotherapy (46 hrs), group psychotherapy (10 hrs)
 <br>
