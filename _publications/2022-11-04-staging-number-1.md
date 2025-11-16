@@ -19,8 +19,6 @@ paperurl: 'http://yejinelly.github.io/files/staging.pdf'
   PDF
 </a>
 
-Yejin Lee, Dongbin Lee, Hyewon Jung, Yunji Cho, Ji Hyun Baek, Kyung Sue Hong <br>
-
 **Abstract**<br>
 **Background**: Clinical staging of bipolar disorder (BD) requires application of real-world data, as the next step in hypothesis. This study used the staging model to analyze the long-term course of BD in Korean patients based on clinical features and treatment responses to map the progression of bipolar illness from its early phase after the onset of illness.<br><br>
 **Methods**: A total of 136 patients diagnosed with BD-I (n=62) or BD-II (n=74) were recruited. Their progressive stages were retrospectively evaluated. A multi-state model was used to calculate the probability of progression to each stage. Hazard ratios of covariates expected to influence different courses of BD were calculated. Using the Alda score,long-term responses to mood stabilizers depending on the current stage were compared.<br><br>
