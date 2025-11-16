@@ -4,7 +4,7 @@ of Korean patients with bipolar disorders:
 replication of the staging model"
 collection: publications
 permalink: /publication/2022-11-04-staging-number-1
-excerpt: 'Yejin Lee, Dongbin Lee, Hyewon Jung, Yunji Cho, Ji Hyun Baek, Kyung Sue Hong'
+excerpt: ''
 date: 2022-11-04
 venue: 'BMC Psychiatry'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
