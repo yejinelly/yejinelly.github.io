@@ -16,22 +16,22 @@ redirect_from:
 ## 👩🏻‍🎓 Education
 
 **Ph.D. Student** in Clinical Psychology<br>
-[Seoul National University](https://en.snu.ac.kr/) - Seoul, Korea _2025 - Present_ <br>
+Seoul National University - Seoul, Korea _2025 - Present_ <br>
   - _Advisor:_ Hyang Sook Kim, Ph.D.
 <br><br>
 
 **Master of Arts** in Clinical Psychology<br>
-[Seoul National University](https://en.snu.ac.kr/) - Seoul, Korea _2020_ <br>
+Seoul National University - Seoul, Korea _2020_ <br>
   - _Advisor:_ Seok Man Kwon, Ph.D.
   - _Thesis:_ The Relationship between Worry and Contrast Avoidance Tendencies: Focusing on Emotional and Expectation Contrasts
 <br><br>
 
 **Student Exchange Program** in Psychology<br>
-[University of Wisconsin-Madison](https://www.wisc.edu/) - Madison, WI _2016_
+University of Wisconsin-Madison - Madison, WI _2016_
 <br><br>
 
 **Bachelor of Arts** in Psychology<br>
-[Yonsei University](https://www.yonsei.ac.kr/en_sc/) - Seoul, Korea _2018_
+Yonsei University - Seoul, Korea _2018_
 <br> 
 <hr/>
 
@@ -74,7 +74,7 @@ Advisor: Dr <span style="font-variant:small-caps;"> Leeyoung Park </span> <br>
 
 ## 🧑🏻‍⚕️ Clinical Experience
 
-**Clinical Psychology Resident** @ [Samsung Medical Center](https://www.samsunghospital.com/gb/language/english/main/index.do) _(2020 - 2022)_ <br>
+**Clinical Psychology Resident** @ Samsung Medical Center _(2020 - 2022)_ <br>
 Supervisor: Ji-Hae Kim, Ph.D. <br>
   - _Population:_ Adult and adolescent inpatients, outpatients
   - _Role:_ Clinical interviews, comprehensive psychological assessments, and integrated report writing (839 cases), individual psychotherapy (128 hrs), cognitive rehabilitation (10 hrs)
@@ -85,7 +85,7 @@ Supervisor: Ji-Hae Kim, Ph.D. <br>
   - _Role:_ Cognitive rehabilitation (16hrs)
 <br><br>
 
-**Student Clinician** @ [Psychological Services Center, Seoul National University](https://snucounsel.snu.ac.kr/en/main.do) _(2019)_ <br>
+**Student Clinician** @ Psychological Services Center, Seoul National University _(2019)_ <br>
 Supervisor: Sook-Kyung Yoon, Ph.D. <br>
   - _Populations:_ College students
   - _Role:_ Intake interviews (14 cases), individual psychotherapy (46 hrs), group psychotherapy (10 hrs)
