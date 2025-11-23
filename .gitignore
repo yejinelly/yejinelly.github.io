@@ -10,3 +10,7 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore CV source Word file (only commit PDF)
+files/YejinLee_CV_source.docx
+files/~$*
