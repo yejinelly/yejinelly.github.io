@@ -14,6 +14,6 @@ Yejin is a Clinical Psychology Ph.D. student at Seoul National University, worki
 
 Yejin is a Licensed Clinical Psychologist who completed a three-year clinical psychology residency at a tertiary hospital. She received a Master's degree in Clinical Psychology in August 2020, advised by Dr. Seok Man Kwon at Seoul National University. After graduating from Yonsei University with a Bachelor's degree in Psychology, she has been pursuing a journey to bridge empirical results with clinical realities. 
 
-Her research interests include 1) cognitive and affective processes that confer risk for depression and anxiety disorders, 2) brain and psychophysiological measures to track treatment outcomes, 3) translational interventions to improve regulatory success. 
+Her research interests include 1) cognitive and affective processes that confer risk for depression and anxiety disorders, 2) brain and psychophysiological measures to track treatment outcomes. 
 
 Outside the lab, she enjoys watching sports (⚾️,🎾) and participating in activities like running and swimming (🏃‍♀️,🏊‍♀️). 
